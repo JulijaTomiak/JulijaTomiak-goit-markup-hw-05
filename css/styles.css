@@ -142,7 +142,7 @@ span {
     height: 4px;
     background-color: var(--secondary-text-color);
     border-radius: 2px;
-    bottom: 0;
+    bottom: -1px;
     
 }
 
