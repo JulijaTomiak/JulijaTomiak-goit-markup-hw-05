@@ -556,7 +556,8 @@ footer .container {
 .project-link-portfolio:focus {
     box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
 }
-.project-item-portfolio:hover .project-top-text-pf {
+.project-link-portfolio:hover .project-top-text-pf,
+.project-link-portfolio:focus .project-top-text-pf {
     transform: translateY(0);
 }
 .project-top-wrap {
